@@ -1,0 +1,7 @@
+.formrow {
+  margin-top:25px;
+  padding:0 25px;
+}
+input{
+  font-size:25px;
+}
